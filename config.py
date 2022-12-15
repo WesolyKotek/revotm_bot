@@ -1,4 +1,4 @@
-BOT_TOKEN = "5722516124:AAGCMB-7mheMM4f6A3KuSqRKZ260PXnu4Yw"
+BOT_TOKEN = ""
 
 password_chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklnopqrstuvwxyz1234567890!@#$%^&*()-+"
 

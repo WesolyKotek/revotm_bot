@@ -1,6 +1,6 @@
 BOT_TOKEN = ""
 
-password_chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklnopqrstuvwxyz1234567890!@#$%^&*()-+"
+password_chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklnmopqrstuvwxyz1234567890!@#$%^&*()-+"
 
 months = [
  'Январь',
